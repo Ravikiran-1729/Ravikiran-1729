@@ -6,6 +6,14 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I 😄.
 
+## 📚 Projects Showcase
+
+### 🔹 Library Management System (Python + KivyMD + ML)
+- OTP Login via WhatsApp
+- Book Recommendation using ML
+- 📸 [View Screenshots & Demo](https://github.com/Ravikiran-1729/Library-Management-System-with-KivyMD-and-ML/tree/main/Screenshots)
+- 🔗 [View GitHub Repo](https://github.com/Ravikiran-1729/Library-Management-System-with-KivyMD-and-ML)
+
 <!---
 Ravikiran-1729/Ravikiran-1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
